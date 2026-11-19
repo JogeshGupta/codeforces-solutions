@@ -1,4 +1,5 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<algorithm>
 using namespace std;
 int main()
 {
@@ -9,6 +10,6 @@ int main()
     });
 
     cout << sol;
-    
+
     
 }
